@@ -1,0 +1,2 @@
+Display Name,Content Set,Command,Command Timeout,Download Timeout,Size,Last Modification,Modified By (Persona)
+Offline Azure Arc for Windows,Default,cmd.exe /d /c powershell.exe -ExecutionPolicy Bypass -WindowStyle Hidden -NonInteractive -NoProfile -File ArcOnboardingScript.ps1,5 minutes,10 minutes,84.9 MB,"2/19/2023, 6:23:24 PM",tanium
